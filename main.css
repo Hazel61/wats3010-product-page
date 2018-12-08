@@ -7,6 +7,9 @@ body {
     color: black;
     position: relative;
 }
+.navbar {
+    background-color: rgba(38,60,0,.5);
+}
 .introduction {
     height: 720px;
 }
@@ -78,4 +81,11 @@ body {
 }
 .featured-video {
     margin-bottom: 30px;
+}
+.video-style {
+    width: 75%;
+    margin-top: 10px;
+}
+.social-style {
+    height: 50px;
 }
