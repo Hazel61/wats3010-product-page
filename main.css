@@ -32,6 +32,8 @@ body {
     /*padding: 15px;*/
 }
 .my-logo {
+    height: 100px;
+
     padding: 10px;
 }
 .comments-style {
