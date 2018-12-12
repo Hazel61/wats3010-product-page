@@ -6,9 +6,14 @@ body {
     padding-bottom: 20px;
     color: black;
     position: relative;
+
+}
+.handwritting {
+    font-family: 'Noto Serif SC', serif;
+    font-family: 'Gamja Flower', cursive;
 }
 .navbar {
-    background-color: rgba(38,60,0,.5);
+    background-color: rgba(38,60,0,.8);
 }
 .introduction {
     height: 720px;
@@ -34,8 +39,9 @@ body {
 .my-logo {
     height: 100px;
 
-    padding: 10px;
+    margin-left: 10px;
 }
+
 .comments-style {
     background-color:#E0E1DD;
     padding: 10px;
